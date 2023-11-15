@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9881bb2a.css",
+    "main.js": "/static/js/main.55fa8d87.js",
+    "static/media/uttkarshsharma.png": "/static/media/uttkarshsharma.85969973801c64ce78e2.png",
+    "static/media/uttkarshs.png": "/static/media/uttkarshs.fcc35d3600108d44f6ad.png",
+    "static/media/netflix clone.jpg": "/static/media/netflix clone.f8434bc85770779089eb.jpg",
+    "static/media/bg-texture.png": "/static/media/bg-texture.0a4b63c0240b9e46b413.png",
+    "static/media/Pokedex.png": "/static/media/Pokedex.e06645a30abbc73c4cd7.png",
+    "static/media/us-portfolio.jpg": "/static/media/us-portfolio.9b9f86d92a48a7d138fb.jpg",
+    "static/media/themeswitch.png": "/static/media/themeswitch.738f642e41c2c6d22916.png",
+    "static/media/Jarvis-ai.jpg": "/static/media/Jarvis-ai.3c3a594f2bacdc68b2d5.jpg",
+    "static/media/Uttkarsh Sharma(CV).pdf": "/static/media/Uttkarsh Sharma(CV).5e073c67003b3b5c57b3.pdf",
+    "static/media/todo.png": "/static/media/todo.ea40c8297e0ce7f367ef.png",
+    "index.html": "/index.html",
+    "main.9881bb2a.css.map": "/static/css/main.9881bb2a.css.map",
+    "main.55fa8d87.js.map": "/static/js/main.55fa8d87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9881bb2a.css",
+    "static/js/main.55fa8d87.js"
+  ]
+}
